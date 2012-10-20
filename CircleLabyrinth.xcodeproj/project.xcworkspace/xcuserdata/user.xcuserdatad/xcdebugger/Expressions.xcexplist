@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "cocos2d::CCString::toUInt():CCString.h">
+      </ContextState>
+      <ContextState
+         contextName = "Torus::triangulateVertices():Torus.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Torus::Torus(b2World*, int, float):Torus.cpp">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
